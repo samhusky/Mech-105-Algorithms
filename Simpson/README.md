@@ -10,8 +10,6 @@ Simpson performs 1/3 simpsons rule on a tabulated set of data
   rule in order to get a numerical estimate of its integral.  It also performs one iteration
   of the trapezoidal rule if the number of intervals in odd
   
-Variables:
-  
   Inputs:
   
     x: Vector of independent data
