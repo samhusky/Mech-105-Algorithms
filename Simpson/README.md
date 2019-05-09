@@ -13,10 +13,8 @@ Created for: CSU Mech 105 Spring 2019
   Variables:
   
     Inputs:
-  
       x: Vector of independent data
       y: Vector of dependent data   
     
     Outputs:
-  
       I: Numerical estimate of integral for tabulated data
